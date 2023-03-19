@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=feto_ado\u00E7ante
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ movimentar()
+comment3.params=
+comment3.target=void\ sairCena()
+comment4.params=
+comment4.target=boolean\ checkCollisions()
+numComments=5
